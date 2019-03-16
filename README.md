@@ -14,4 +14,6 @@ To beat a level, either reach the top of the level or touch the green block. Lav
 
 Try out a high-quality, special and fun level, go to [this link](https://www.blockyjump.me/levels/Leaky_Sewer)!
 
+NOTE: For those web devs out there, you can sanitize html input with unsafeHtml.replace(/</g, '&lt;').replace(/>/g, '&gt;')
+
 Have a nice day!
